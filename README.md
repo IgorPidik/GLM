@@ -1,2 +1,2 @@
 # GLM
-GLM
+Global linear model
